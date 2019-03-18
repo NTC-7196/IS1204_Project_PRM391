@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "904771111357",
+    "firebase_url": "https://myhola-75755.firebaseio.com",
+    "project_id": "myhola-75755",
+    "storage_bucket": "myhola-75755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904771111357:android:ab91e51e5c7e18f6",
+        "android_client_info": {
+          "package_name": "com.example.tranhuuhiep.holahome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904771111357-guq2rfu9logvlos0uc3cr6qhtn55iho2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tranhuuhiep.holahome",
+            "certificate_hash": "2853fb45531f104991923ccf9b9c379bf8e94f5a"
+          }
+        },
+        {
+          "client_id": "904771111357-a9c85bft7tpr8isrb59ouu1kc02m17eo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO3nbKlncIH9BIQX1q7ZmamG9zonhyG28"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904771111357-a9c85bft7tpr8isrb59ouu1kc02m17eo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
